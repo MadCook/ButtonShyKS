@@ -153,8 +153,8 @@
     offering = + $('input[name="Offering"]:checked').val()
     shipping = + $('input[name="shipping"]:checked').val()
     discount = + $('input[name="discount"]:checked').val()
-    total = 1+ parseInt(offering) + parseInt(shipping) + parseInt(discount) 
-    totals = offering + shipping + discount 
+    total = 1+ parseInt(offering) + parseInt(shipping) - parseInt(discount) 
+    totals = offering + shipping - discount 
     $("#to_offering").text(offering)
     $("#to_shipping").text(shipping)
     $("#to_discount").text(discount)
@@ -165,8 +165,8 @@
     offering = + $('input[name="Offering"]:checked').val()
     shipping = + $('input[name="shipping"]:checked').val()
     discount = + $('input[name="discount"]:checked').val()
-    total = 1+ parseInt(offering) + parseInt(shipping) + parseInt(discount) 
-    totals = offering + shipping + discount 
+    total = 1+ parseInt(offering) + parseInt(shipping) - parseInt(discount) 
+    totals = offering + shipping - discount 
     $("#to_offering").text(offering)
     $("#to_shipping").text(shipping)
     $("#to_discount").text(discount)
