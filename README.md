@@ -4,6 +4,28 @@ You can use the [editor on GitHub](https://github.com/MadCook/ButtonShyKS/edit/m
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+
+Info for the Kickstarter:
+
+Offering | Pledge Amount
+------------ | -------------
+Death Valley & Panamint City | $9
+Intro to Button Shy Bundle | $29
+Real Life Locations Bundle | $29
+
+Shipping |  Amount
+------------ | -------------
+US | $5
+Canada |$10
+Europe | $12
+Rest of the World | $16
+
+Campaign Level | Discount
+------------ | -------------
+$1-3 Patron | $1
+$5 | $2
+$10-20 | $5
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
